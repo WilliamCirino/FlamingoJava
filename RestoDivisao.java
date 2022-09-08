@@ -15,9 +15,9 @@ public class RestoDivisao {
 
 		float valor2 = sc.nextFloat();
 		
-		float resultado = valor1%valor2;
+		int resultado = valor1%valor2;
 		
-		System.out.println("O resto da Divis„o È de: "+resultado);
+		System.out.println("O resto da Divis√£o √© de: "+resultado);
 		
 		sc.close();
 
